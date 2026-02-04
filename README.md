@@ -27,7 +27,6 @@ This project focuses on analyzing employee attrition data to identify key factor
 2. Exploratory Data Analysis (EDA)  
 3. Feature engineering and preprocessing pipelines  
 4. Model training and evaluation  
-5. Model saving for deployment  
 
 ## Key Insights
 - Employee experience, company size, and training hours play a major role in attrition
